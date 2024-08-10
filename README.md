@@ -12,7 +12,7 @@ This project integrates:
 
 Follow these steps to set up and run the simulation:
 
-    cd catkin_ws
+    cd catkin_ws/src
     git clone https://github.com/srividyaprasad/Robot-inWarehouse-Simulation
     cd ..
     catkin_make
